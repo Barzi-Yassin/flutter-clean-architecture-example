@@ -1,3 +1,4 @@
+...
 # Flutter - Clean Architecture with State Management comparison
 
 ![Build Status](https://github.com/guilherme-v/flutter-clean-architecture-example/actions/workflows/main.yaml/badge.svg)
